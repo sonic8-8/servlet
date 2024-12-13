@@ -1,4 +1,4 @@
-package com.chain.servlet.web.servlet.sevletmvc;
+package com.chain.servlet.web.servlet.servletmvc;
 
 import jakarta.servlet.RequestDispatcher;
 import jakarta.servlet.ServletException;
